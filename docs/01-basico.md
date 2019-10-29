@@ -3,8 +3,8 @@
 
 ## Configuração básica
 
-1. [Criar um usuário IAM para uso pessoal](#01-1---criar um usuário iam para uso pessoal)
-2. [Ativar /MFA (Multi-Factor Authentication)/](#01-2---ativar-mfa-multi-factor-authentication)/)
+1. [Criar um usuário IAM para uso pessoal](#01-1---criar-um-usuário-iam-para-uso-pessoal)
+2. [Ativar /MFA (Multi-Factor Authentication)/](#01-2---ativar-mfa-multi-factor-authentication)
 3. [Desabilitar chaves para o usuário root](#01-3---desabilitar-chaves-para-usuário-root)
 
 4. [Ativar alertas e/ou orçamento](#01-4---ativar-alertas-eou-orçamento) (afinal, não queremos gastar nada por enquanto. rs)
@@ -23,7 +23,7 @@ Mais uma camada de proteção para a conta. Aconselhável.
 
 ## 01.3 - Desabilitar chaves para o usuário root
 
-Raciocínio análogo ao item [01.1](#01.1 - Criar um usuário IAM para o uso pessoal).
+Raciocínio análogo ao item [01.1](#01-1---criar-um-usuário-iam-para-uso-pessoal).
 
 Acessível em [Identity and Access Management Console](https://console.aws.amazon.com/iam/).
 
