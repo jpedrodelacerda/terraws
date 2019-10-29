@@ -19,7 +19,7 @@ Para iniciar a aventura (de forma gratuita) é primeiro necessário fazer um cad
 
 ## Índice
 
-- [Básico](./docs/01-basico/README.md)
+- [Básico](./docs/01-basico.md)
 
 
 ### Referências
