@@ -23,7 +23,7 @@ Mais uma camada de proteção para a conta. Aconselhável.
 
 ## 01.3 - Desabilitar chaves para o usuário root
 
-Raciocínio análogo ao item [01.1](#01-1---criar-um-usuário-iam-para-uso-pessoal).
+Raciocínio análogo ao item [01.1](#011---criar-um-usuário-iam-para-uso-pessoal).
 
 Acessível em [Identity and Access Management Console](https://console.aws.amazon.com/iam/).
 
