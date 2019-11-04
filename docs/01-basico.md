@@ -3,12 +3,12 @@
 
 ## Configuração básica
 
-1. [Criar um usuário IAM para uso pessoal](#01-1---criar-um-usuário-iam-para-uso-pessoal)
-2. [Ativar MFA (Multi-Factor Authentication)](#01-2---ativar-mfa-multi-factor-authentication)
-3. [Desabilitar chaves para o usuário root](#01-3---desabilitar-chaves-para-usuário-root)
+1. [Criar um usuário IAM para uso pessoal](#011---criar-um-usuário-iam-para-uso-pessoal)
+2. [Ativar MFA (Multi-Factor Authentication)](#012---ativar-mfa-multi-factor-authentication)
+3. [Desabilitar chaves para o usuário root](#013---desabilitar-chaves-para-usuário-root)
 
-4. [Ativar alertas e/ou orçamento](#01-4---ativar-alertas-eou-orçamento) (afinal, não queremos gastar nada por enquanto. rs)
-5. [Configurar a AWS CLI](#01-5---configurar-a-aws-cli)
+4. [Ativar alertas e/ou orçamento](#014---ativar-alertas-eou-orçamento) (afinal, não queremos gastar nada por enquanto. rs)
+5. [Configurar a AWS CLI](#015---configurar-a-aws-cli)
 
 ## 01.1 - Criar um usuário IAM para uso pessoal
 
